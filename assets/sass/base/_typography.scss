@@ -1,0 +1,38 @@
+h1 {
+  font-size: $xx-large;
+  color: $white;
+  font-family: $playfair;
+  font-weight: $black;
+  font-style: italic;
+}
+
+h3 {
+  font-family: $playfair;
+  font-weight: $black;
+  font-style: italic;
+  color: $eerie-black;
+  font-size: $x-large;
+}
+
+h4 {
+  font-size: $large;
+  color: $spanish-pink;
+}
+
+.main-section {
+  &__text-emphasis {
+    color: $ruddy-pink;
+  }
+
+  &__date {
+    font-family: $playfair;
+    font-size: $medium;
+  }
+
+  &__author {
+    p {
+      font-size: $small;
+      font-weight: $regular;
+    }
+  }
+}

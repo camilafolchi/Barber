@@ -1,0 +1,23 @@
+.navbar{
+  background: $eerie-black;
+  position: fixed;
+width: 100vw;
+z-index: 1;
+}
+
+.navbar-brand{
+  padding-top: 20px;
+}
+
+.navbar__img{
+    width: 8vw;
+}
+
+a{
+  color: $white;
+  margin: .4rem;
+}
+
+.current{
+color: $ruddy-pink;
+}

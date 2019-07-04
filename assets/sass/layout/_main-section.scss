@@ -1,0 +1,36 @@
+.main-section{
+margin-bottom: 20px;
+}
+
+.main__title{
+  color: $nickel;
+  text-align: left;
+  font-family: $playfair;
+  font-weight: $light;
+  font-size: $large;
+}
+
+.main__text{
+  color: $nickel;
+  text-align: left;
+  font-family: $roboto;
+  font-weight: $light;
+  font-size: $small;
+}
+
+.main__text2{
+  color: $ruddy-pink;
+  font-family: $roboto;
+  font-weight: $light;
+  font-size: $small;
+}
+
+.btn{
+  background-color: $nickel;
+  color: $white;
+  font-family: $roboto;
+  font-weight: $light;
+  font-size: $small;
+  text-align: center;
+  margin: 3px;
+}
